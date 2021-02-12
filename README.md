@@ -28,3 +28,5 @@ https://github.com/NordicSemiconductor/Android-BLE-Library
 https://github.com/ThingPulse/esp8266-oled-ssd1306
 
 https://github.com/mitchwongho/ESP-Alerts-for-Android
+
+https://www.hackster.io/mitchwongho/read-phone-notifications-using-esp-eb0ad4
