@@ -20,3 +20,11 @@ https://pub.dev/packages/flutter_local_notifications
 https://github.com/0015/IdeasNProjects/tree/master/Esp32_Flutter_BLE_LocalNoti
 
 https://github.com/pauldemarco/flutter_blue/issues/82
+
+More resources:
+
+https://github.com/NordicSemiconductor/Android-BLE-Library
+
+https://github.com/ThingPulse/esp8266-oled-ssd1306
+
+https://github.com/mitchwongho/ESP-Alerts-for-Android
