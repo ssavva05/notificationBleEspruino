@@ -1,7 +1,10 @@
 # notificationBleEspruino
 A flutter app for getting iOS and Android notifications to Espruino 
+
 This is the starting point.
+
 It is planed to based on flutter ble
+
 There are some usefull referece from other projects:
 https://www.youtube.com/watch?v=a71xc5Dm8xU&t
 https://github.com/Polidea/FlutterBleLib
